@@ -1,0 +1,1 @@
+This repository contains some problems/examples for data aquisition. These are done using the numpy, pandas, seaborn, matplotlib libraries.
